@@ -1,0 +1,8 @@
+[submodule "CsClub-server-cgi_bin"]
+	path = CsClub-server-cgi_bin
+[submodule "CsClub-server-cgi_bin"]
+	url = https://github.com/SamuelColacchia/CsClub-server-cgi_bin
+[submodule "CsClub-server-html"]
+	path = CsClub-server-html
+[submodule "CsClub-server-html"]
+	url = https://github.com/SamuelColacchia/CsClub-server-html
